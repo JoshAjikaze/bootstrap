@@ -1,0 +1,6 @@
+$body-bg: rgb(27, 27, 27);
+@import "../node_modules/bootstrap/scss/bootstrap";
+.container-xxl {
+  background: green;
+  min-height: 100vh;
+}
